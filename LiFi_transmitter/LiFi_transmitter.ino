@@ -1,4 +1,10 @@
-
+################################################# ################################################# #################### #
+# Title : « Securiting The Light Escaping In a Li-Fi Network Environment » #
+# Prototype Li-Fi source code, implemented by www.abil.ac.cd team composed by Dibson Diambeki, #
+# Reagan Mandiya, Kyandoghere Kyamakya, Selain Kasereka #
+# We invite contributors to reuse our source code and cite our article #
+# contact us: contact@abil.ac.cd - Université de Kinshasa # #
+################################################# ################################################# ###################
 
 #include "AESLib.h"
 #include <Keypad.h>
