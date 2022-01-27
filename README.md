@@ -1,3 +1,6 @@
 Please read this file !
+
+
+
 Wi-Fi is a technology that connects computer equipment. It is considered the easiest way to interconnect multiple end users as it enables user mobility in workspaces, avoids cable clutter in network coverage, such as offices, homes, etc. Despite these advantages, several scientific studies have shown that this technology can pose security and safety problems and is dangerous for human health, and therefore not suitable for hospital networks. In an effort to solve this problem, Li-Fi technology based on visible light is beginning to interest researchers. This technology is considered safer than Wi-Fi because light can be contained within a physical space and the waves cannot pass through walls and other objects.
 It is thus in an experimental framework, the objective of this work is to implement a Li-Fi prototype by improving its security by a cryptographic algorithm of the AES type and to set up an authentication system by captive portal thanks to the router. Zeroshell software. The developed prototype and the proposed architecture guarantee the security of the Li-Fi network even if the physical environment is provided with multiple light evacuation spaces.
